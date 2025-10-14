@@ -1,0 +1,10 @@
+name: wbs-pandas
+channels:
+  - defaults
+dependencies:
+  - jupyterlab
+  - pandas
+  - conda-forge::matplotlib
+  - conda-forge::ipympl
+  - anaconda::scipy
+  - anaconda::seaborn
