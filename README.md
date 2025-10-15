@@ -1,15 +1,15 @@
 # Data Analytics Project: Discount Strategy Analysis
 
 ## Project Overview
-This project analyzes three key datasets — `orders.csv`, `products.csv`, and `orderlines.csv` — to determine whether implementing aggressive discount strategies would positively impact overall revenue.
+This project analyzes three key datasets — `orders_cl.csv`, `products_cl.csv`, and `orderlines_cl.csv` — to determine whether implementing aggressive discount strategies would positively impact overall revenue.
 
 ## Objective
 The primary goal is to evaluate if offering higher discounts can drive increased revenue, or if such strategies may lead to diminished returns due to reduced profit margins.
 
 ## Data Sources
-- **orders.csv**: Contains order-level information such as order date, customer, and total value.
-- **products.csv**: Includes product details such as product name, category, and base price.
-- **orderlines.csv**: Provides line-item details for each order, linking products with orders and discounts applied.
+- **orders_cl.csv**: Contains order-level information such as order date, customer, and total value.
+- **products_cl.csv**: Includes product details such as product name, category, and base price.
+- **orderlines_cl.csv**: Provides line-item details for each order, linking products with orders.
 
 ## Key Analysis Areas
 - Correlation between discount rates and revenue
